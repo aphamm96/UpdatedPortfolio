@@ -1,0 +1,33 @@
+.jumbotron{
+    background: url("../assets/0819201154.jpg") no-repeat center;
+    background-size: cover;
+    color: lightgray;
+    text-align: center;
+    text-shadow: 
+        /* first layer at 1px */
+        -1px -1px 0px #000,
+         0px -1px 0px #000,
+         1px -1px 0px #000,
+        -1px  0px 0px #000,
+         1px  0px 0px #000,
+        -1px  1px 0px #000,
+         0px  1px 0px #000,
+         1px  1px 0px #000,
+        /* second layer at 2px */
+        -2px -2px 0px #000,
+        -1px -2px 0px #000,
+         0px -2px 0px #000,
+         1px -2px 0px #000,
+         2px -2px 0px #000,
+         2px -1px 0px #000,
+         2px  0px 0px #000,
+         2px  1px 0px #000,
+         2px  2px 0px #000,
+         1px  2px 0px #000,
+         0px  2px 0px #000,
+        -1px  2px 0px #000,
+        -2px  2px 0px #000,
+        -2px  1px 0px #000,
+        -2px  0px 0px #000,
+        -2px -1px 0px #000;
+}

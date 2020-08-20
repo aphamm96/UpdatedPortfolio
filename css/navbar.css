@@ -1,0 +1,14 @@
+#nav-content{
+    color: var(--nickel);
+    margin-left: 65%;
+}
+
+.navbar-custom{
+    background-color: var(--gunmetal);
+    color: var(--nickel);
+    border: solid .25em var(--blued);
+}
+
+.nav-dash{
+    font-size: large;
+}

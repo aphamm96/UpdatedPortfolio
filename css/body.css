@@ -1,0 +1,50 @@
+body{
+    background: url(../assets/ivana-cajina-asuyh-_ZX54-unsplash.jpg);
+
+    font-family: var(--font-two);
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline;
+    padding: 1em;
+    background-color: var(--darkred);
+    border-radius: 5em;
+    color: var(--nickel);
+}
+
+.aboutMeText{
+    color: var(--nickel);
+    padding: 2em;
+    background-color: var(--darkred);
+    margin: 5em 10em 5em 10em;
+    border: .25em solid var(--lava);
+    border-radius: 5em;
+    font-family: var(--font-three);
+}
+
+.row{
+    padding: 1em;
+}
+
+.col{
+    color: var(--nickel);
+    padding: 2em;
+    background-color: var(--darkred);
+    margin-left: .5em;
+    margin-right: .5em;
+    border: .25em solid var(--lava);
+    border-radius: 5em;
+    text-align: center;
+}
+
+.info{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2em;
+    background-color: var(--darkred);
+    border: .25em solid var(--lava);
+    color: var(--nickel);
+    text-align: center;
+    border-radius: 5em;
+}

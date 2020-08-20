@@ -1,0 +1,19 @@
+:root{
+    --darkred: #250D0D;
+    --lava: #4E1A1A;
+    --ruby: #772828;
+    --red: #A33737;
+    --gunmetal: #002835;
+    --blued: #1A4249;
+    --teal: #235A64;
+    --darkPurple: #1C1736;
+    --purple: #2B2352;
+    --lightPurple: #3A2F71;
+    --nickel: #74776B;
+
+    --font-one:'Lobster', cursive;
+
+    --font-two:'Press Start 2P', cursive;
+
+    --font-three: 'Noto Serif', serif;
+}

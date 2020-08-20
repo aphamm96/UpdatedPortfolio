@@ -1,0 +1,5 @@
+.footertext{
+    background-color: var(--gunmetal);
+    color: var(--nickel);
+    text-align: right;
+}
